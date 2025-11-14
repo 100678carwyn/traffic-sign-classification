@@ -22,3 +22,6 @@ Mỗi file là một pickle (Python) với cấu trúc:
   "features": array([...], dtype=np.uint8 or float64),
   "labels":   array([...], dtype=np.int64)
 }
+## References / Credits
+- Tutorial code tham khảo từ PyImageSearch: [Traffic Sign Classification with Keras](https://www.pyimagesearch.com/2019/11/04/traffic-sign-classification-with-keras-and-deep-learning/)
+- Dataset: German Traffic Sign Recognition Benchmark (GTSRB) - [https://benchmark.ini.rub.de/gtsrb_dataset.html](https://benchmark.ini.rub.de/gtsrb_dataset.html)
